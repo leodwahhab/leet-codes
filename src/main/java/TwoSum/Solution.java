@@ -1,4 +1,6 @@
-class Solution {
+package TwoSum;
+
+public class Solution {
     /**
      * Finds two indices in the given array such that the numbers at those indices add up to the specified target.
      *
